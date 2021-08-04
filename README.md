@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nishant-V3rma
-- 👀 I’m interested in ... Gaming, Music, Anime, Sci-fi shows movies cartoons and Python codes
+- 👋 Hi, I’m @Nishant Verma
+- 👀 I’m interested in ... Gaming, Music, Anime, Astro-physics, Quantum-physics, Sci-fi shows movies cartoons and Python codes.
 - 🌱 I’m currently learning ... Full stack python development including html, css, javascript and bootstrap.
 - 💞️ I’m looking to collaborate on ... Full stack python projects, back end python projects.
 - 📫 How to reach me ... nishant.pythoncodes@gmail.com
